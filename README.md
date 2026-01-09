@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">✍Currently learning:</h2>
+<h2 align="left">Currently learning:</h2>
 
 ###
 
