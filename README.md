@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=Hey!+I'm+Pedro%F0%9F%96%90;Welcome+to+my+profile+%F0%9F%97%A3%F0%9F%97%A3" alt="Typing SVG" /></a>
 
-<h2 align="left">👾About me:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">💻Technologies:</h2>
+<h2 align="left">Technologies:</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">✍🏻Currently learning:</h2>
+<h2 align="left">✍Currently learning:</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">📈Stats:</h2>
+<h2 align="left">Stats:</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">🌐Socials:</h2>
+<h2 align="left">Socials:</h2>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h2 align="left">📩Contact information:</h2>
+<h2 align="left">Contact information:</h2>
 
 ###
 
